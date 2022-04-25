@@ -82,7 +82,7 @@ nav li a{
 }
 
 .banner{
-	background: url("../img/banner.jpg");
+	background: url('../img/banner.jpg');
 	height: 450px;
 	margin-bottom: 48px;
 	position: relative;
