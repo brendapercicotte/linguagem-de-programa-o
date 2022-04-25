@@ -7,7 +7,7 @@ Qualquer dúvida consulte :::http://www.w3.org/community/webed/wiki/CSS/Properti
 /* Normatização CSS */
 
 body{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'roboto', sans-serif;
 	color: #444444;
 	line-height: 1.5;
 	font-size: 100%;
@@ -63,7 +63,7 @@ header{
 
 nav{
 	width: 840px;
-	float: left;
+	float: right;
 }
 
 nav ul{
