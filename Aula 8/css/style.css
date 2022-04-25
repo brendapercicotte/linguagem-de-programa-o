@@ -106,7 +106,6 @@ O Position não serve para diagramar a estrutura de layouts. Para isso, você ut
 h1{
 	font-size: 40px;
 	color: #FFFFFF;
-	font-weight: 200;
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -114,7 +113,6 @@ h1{
 .caixa p{
 	font-size: 18px;
 	color: #FFFFFF;
-	font-weight: 200;
 }
 
 article{
